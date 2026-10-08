@@ -23,7 +23,7 @@ Working on my bachelor's and improving daily</p>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · PowerShell · Shell · Python</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Information Security and Cybersecurity · PowerShell · Shell · Python</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>4 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>56 contributions · 6 active days</p></td>
 </tr>
