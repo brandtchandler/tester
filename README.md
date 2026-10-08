@@ -5,11 +5,11 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · brandtchandler</sub></p>
 <h1>Brandt</h1>
-<h2>Backend or systems engineer</h2>
+<h2>CyberSecurity</h2>
 <p>Field Service Analyst Senior supporting healthcare | Veteran | Student |
 Working on my bachelor's and improving daily</p>
 <p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Oregon</sub></p>
+<p><sub>Based in Oregon, Willing to Relocate</sub></p>
 <p><a href="https://github.com/brandtchandler">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
@@ -29,7 +29,7 @@ Working on my bachelor's and improving daily</p>
 </tr>
 </table>
 
-<p><sub>Field Service Analyst Senior supporting healthcare | Veteran | Student |
+<p><sub>Field Service Analyst Senior supporting healthcare | Veteran | Autodidact |
 Working on my bachelor's and improving daily</sub></p>
 
 <h2>Proof at a glance</h2>
