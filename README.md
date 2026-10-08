@@ -105,7 +105,7 @@ Working on my bachelor's and improving daily</sub></p>
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="62%" valign="middle"><h2>Let’s talk about the next steps</h2><p>Open to thoughtful teams, protecting systems and learning more.</p></td>
 <td width="38%" valign="middle" align="right"><a href="https://github.com/brandtchandler">GitHub</a></td>
 </tr>
 </table>
