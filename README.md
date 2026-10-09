@@ -110,4 +110,3 @@ Working on my bachelor's and improving daily</sub></p>
 </tr>
 </table>
 
-<p align="center"><sub>Brandt · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
